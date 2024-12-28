@@ -1,0 +1,6 @@
+# 元宇宙游戏NFT数字产品收藏NFT交易市场矿池分红理财多语言原生三端定制开发
+
+NFT数字藏品及NFT交易市场<br>开发语言：<br>APP前端UNI，后端PHP，PC前端UNI+PHP，Mysql数据库<br>功能介绍：<br>example.com，SDP发行；<br>example.com，会开启SDP拾取；<br>example.com；<br>example.com；<br>example.com，开启13代提成（CV,SDP,USDP奖励），USDP未有效推满3人将为冻结，有效推满3人将会开放USDP奖励；<br>example.com；<br>example.com；<br>example.com；<br>example.com；<br>10：多大20多个国家语言，主语为英语；<br>11：注册邮箱配置，支付登陆密码修改，公司介绍，白皮书等基础功能配置；<br>12：社区互动（包含发帖，评论，点赞）<br>卖点：<br>4端，安卓，IOS，PC，自适应；<br>原生Uni-app，OSS加速，星球旋转动画，数字跳动动画；<br>社区3大部分组成：官方精贴，活动精贴，用户帖子；<br>此项目由公司一手开发，设计的UI与前端有极强的交互效果，视觉效果。<br>如需咨询源代码可联系客服电话：17138282828，QQ987695217<br>本店承接二次开发，定制开发，UI设计<br>本店声明：<br>1、源码来自网络分享，本程序仅供研究使用，请勿用于任何非法用途及商用，您使用本程序造成的责任及风险均与本店及本店店主无任何关系。<br>2、您研究测试本程序时需严格遵守我国法律及规定，不得触碰法律。<br>3、请各位买家朋友测试好、功能完全无误在下单购买。<br>4、请勿用于非法用途，不得违反国家法律，否则后果自负，暂停一切售后服务。<br><br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/Qn5hh" style="color: red;">https://mega-file.org/Qn5hh</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
